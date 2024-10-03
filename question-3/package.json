@@ -1,0 +1,12 @@
+{
+  "name": "question-3",
+  "version": "1.0.0",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Akorede Daniel OSunkoya",
+  "license": "ISC",
+  "description": ""
+}
